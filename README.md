@@ -1,3 +1,3 @@
 # demo
 Description is optional.
-Creater-Abhishek Gupta
+Creator-Abhishek Gupta
